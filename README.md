@@ -1,9 +1,9 @@
 ### Guten Tag! I am Sayan 👋
 
 
-- 🔭 I’m currently working on making a website.
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on GitHub
+- 🔭 I’m currently working on an AR application.
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Unity.
 - 📫 How to reach me: sayantanmaiti17@gmail.com
 - 😄 Pronouns: He/His
