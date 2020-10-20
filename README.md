@@ -1,7 +1,7 @@
 ### Guten Tag! I am Sayan 👋
 
 
-- 🔭 I’m currently working on a video conferencing app.
+- 🔭 I’m currently working on COVID-Tracker Web App
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Unity.
